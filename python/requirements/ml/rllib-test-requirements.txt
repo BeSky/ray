@@ -15,7 +15,7 @@ pettingzoo==1.23.1
 # When installing pettingzoo, chess is missing, even though its a dependancy
 # TODO: remove if a future pettingzoo and/or ray version fixes this dependancy issue.
 chess==1.7.0
-pymunk==6.2.1
+pymunk==6.8.0
 supersuit==3.8.0
 tinyscaler==1.2.6
 shimmy
